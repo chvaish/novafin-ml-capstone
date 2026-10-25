@@ -1,0 +1,5 @@
+,ROC-AUC,PR-AUC,Brier,Fraud caught in top 5%,Precision in top 5%
+Logistic Regression,0.794,0.121,0.179,0.322,0.147
+Random Forest,0.777,0.131,0.086,0.333,0.152
+Gradient Boosting,0.784,0.129,0.021,0.351,0.16
+Baseline: amount ÷ usual,0.778,0.106,,0.275,0.125
